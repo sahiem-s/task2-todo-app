@@ -1,1 +1,2 @@
 # task2-todo-app
+# Task 2 – To-Do List Web App (HTML + CSS + JavaScript) | A simple front-end To-Do List application where users can add tasks, mark tasks as complete using a toggle class, and delete tasks instantly without page reload. Built using HTML for structure, CSS for layout and styling, and Vanilla JavaScript for dynamic functionality with event listeners. Features: input box + Add button, dynamic task creation, complete-task toggle, delete button, and smooth UI updates. How to run: open the folder in VS Code → right-click index.html → “Open with Live Server”.
